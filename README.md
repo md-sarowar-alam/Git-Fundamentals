@@ -3853,6 +3853,24 @@ heroku apps:destroy --app your-app-name --confirm your-app-name
 
 ---
 
+### Contributing
+
+We welcome contributions to improve this guide! Here's how:
+
+1. **Fork the repository**: [md-sarowar-alam/Git-Fundamentals](https://github.com/md-sarowar-alam/Git-Fundamentals)
+2. **Clone your fork**:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Git-Fundamentals.git
+   cd Git-Fundamentals
+   ```
+3. **Add upstream remote**:
+   ```bash
+   git remote add upstream git@github.com:md-sarowar-alam/Git-Fundamentals.git
+   ```
+4. **Create a branch**:
+   ```bash
+   git checkout -b docs/your-improvement
+   ```
 5. **Make your changes and commit**:
    ```bash
    git add .
@@ -3885,4 +3903,3 @@ This guide is provided as educational material for DevOps engineers.
 ---
 
 **© 2026 Md. Sarowar Alam. All rights reserved.**
-
