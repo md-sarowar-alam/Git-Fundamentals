@@ -7,7 +7,7 @@
 **Clone URL (HTTPS)**: `https://github.com/md-sarowar-alam/Git-Fundamentals.git`  
 **Clone URL (SSH)**: `git@github.com:md-sarowar-alam/Git-Fundamentals.git`
 
-## Table of Contents
+## Table of Contents ------------------
 - [Introduction to Git](#introduction-to-git)
 - [Installing Git](#installing-git)
 - [Installing GitHub CLI (gh)](#installing-github-cli-gh)
